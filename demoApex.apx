@@ -1,0 +1,7 @@
+public class demoApex
+{
+  public static void dis()
+  {
+     System.debug("hello Apex");
+  }
+}
