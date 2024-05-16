@@ -1,0 +1,8 @@
+public class Cal {
+  public static void mul()
+{
+     integer a=3 , b=4;
+     System.debug(a*b);
+}
+
+}
