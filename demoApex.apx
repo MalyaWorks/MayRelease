@@ -4,4 +4,10 @@ public class demoApex
   {
      System.debug("hello Apex");
   }
+  public static void sum()
+  {
+    integer a , integer b;
+    integer sum = a+b;
+    System.debug(sum);
+   }
 }
